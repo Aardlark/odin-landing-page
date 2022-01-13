@@ -22,9 +22,10 @@ a {
     align-items: center;
     background-color: #1f2937;
     gap: 42px;
+    padding: 76px 15%;
 }
 
-.header, .intro, .body, .call-to-action, .footer {
+.header, .body, .call-to-action, .footer {
     padding: 36px 15%;
 }
 .hero-main-text {
@@ -60,6 +61,8 @@ border-radius: 8px;
 
 .block {
     max-width: 200px;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
 
 .body-images {
@@ -67,6 +70,7 @@ border-radius: 8px;
   justify-content: center;
   align-items: center;
   gap: 52px;
+
 }
 
 .text {
